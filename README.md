@@ -12,4 +12,4 @@ Utilize the historic AAL stock price from 2013–02–08 to 2018–02–07, whic
 
 **Medium Blog**
 
-Read the medium blog for a more detailed explanation**[link](https://medium.com/@jaspreet_75320/use-monte-carlo-simulation-to-answer-stock-market-questions-related-to-calls-and-puts-2068c03c4afd)**.
+Read the medium blog for a more detailed explanation **[link](https://medium.com/@jaspreet_75320/use-monte-carlo-simulation-to-answer-stock-market-questions-related-to-calls-and-puts-2068c03c4afd)**.
